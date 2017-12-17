@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'hola_jpae'
+
+puts HolaJpae.hi(ARGV[0])
